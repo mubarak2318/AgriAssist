@@ -1,0 +1,47 @@
+[
+  {
+    "vendor_name": "TN Farmer Market - Trichy",
+    "location": "Trichy",
+    "category": "Crop Buyer",
+    "price_premium_percent": 10,
+    "distance_km": 5,
+    "rating": 4.5,
+    "contact": "0431-2234567"
+  },
+  {
+    "vendor_name": "Kovai AgroTrade Hub",
+    "location": "Coimbatore",
+    "category": "Crop Buyer",
+    "price_premium_percent": 8,
+    "distance_km": 30,
+    "rating": 4.2,
+    "contact": "0422-3345678"
+  },
+  {
+    "vendor_name": "Salem Direct Market",
+    "location": "Salem",
+    "category": "Crop Buyer",
+    "price_premium_percent": 6,
+    "distance_km": 12,
+    "rating": 3.9,
+    "contact": "0427-2456789"
+  },
+  {
+    "vendor_name": "Kaveri Seeds Dealer - Trichy",
+    "location": "Trichy",
+    "category": "Seed Supplier",
+    "price_premium_percent": 0,
+    "distance_km": 4,
+    "rating": 4.3,
+    "contact": "0431-3312345"
+  },
+  {
+    "vendor_name": "IFFCO Distributor - Salem",
+    "location": "Salem",
+    "category": "Fertilizer Supplier",
+    "price_premium_percent": 0,
+    "distance_km": 8,
+    "rating": 4.6,
+    "contact": "0427-2567890"
+  }
+]

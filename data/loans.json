@@ -1,0 +1,38 @@
+[
+  {
+    "loan_name": "Kisan Credit Card (KCC)",
+    "provider": "All Nationalized Banks",
+    "max_amount": 300000,
+    "interest_rate_percent": 4.0,
+    "tenure_months": 12,
+    "eligibility_note": "Available to all farmers with land ownership documents",
+    "purpose": "Seeds, fertilizers, pesticides, and day-to-day farm expenses"
+  },
+  {
+    "loan_name": "Agricultural Term Loan",
+    "provider": "SBI / NABARD Partner Banks",
+    "max_amount": 1000000,
+    "interest_rate_percent": 7.0,
+    "tenure_months": 60,
+    "eligibility_note": "For land development, irrigation, and equipment purchase",
+    "purpose": "Long-term investment in farm infrastructure"
+  },
+  {
+    "loan_name": "Crop Loan (Short Term)",
+    "provider": "District Cooperative Banks",
+    "max_amount": 100000,
+    "interest_rate_percent": 6.0,
+    "tenure_months": 9,
+    "eligibility_note": "For farmers with crop cultivation proof, seasonal loan",
+    "purpose": "Cultivation expenses for a single crop season"
+  },
+  {
+    "loan_name": "PM SVANidhi (Micro Credit)",
+    "provider": "Microfinance Institutions",
+    "max_amount": 50000,
+    "interest_rate_percent": 12.0,
+    "tenure_months": 12,
+    "eligibility_note": "For marginal farmers and rural women with no formal documents",
+    "purpose": "Small-scale input purchase and working capital"
+  }
+]

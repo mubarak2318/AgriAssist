@@ -1,0 +1,12 @@
+[
+  { "crop_name": "Groundnut", "region": "Tamil Nadu", "price_per_kg": 78,  "demand": "High",      "best_selling_month": "November-December" },
+  { "crop_name": "Rice",      "region": "Tamil Nadu", "price_per_kg": 22,  "demand": "Very High", "best_selling_month": "December-January"  },
+  { "crop_name": "Wheat",     "region": "Tamil Nadu", "price_per_kg": 25,  "demand": "Medium",    "best_selling_month": "April-May"          },
+  { "crop_name": "Cotton",    "region": "Tamil Nadu", "price_per_kg": 65,  "demand": "High",      "best_selling_month": "October-November"   },
+  { "crop_name": "Maize",     "region": "Tamil Nadu", "price_per_kg": 18,  "demand": "Medium",    "best_selling_month": "September-October"  },
+  { "crop_name": "Chickpea",  "region": "Tamil Nadu", "price_per_kg": 55,  "demand": "High",      "best_selling_month": "March-April"        },
+  { "crop_name": "Sugarcane", "region": "Tamil Nadu", "price_per_kg": 3,   "demand": "Very High", "best_selling_month": "January-March"      },
+  { "crop_name": "Sunflower", "region": "Tamil Nadu", "price_per_kg": 48,  "demand": "Medium",    "best_selling_month": "April-May"          },
+  { "crop_name": "Tomato",    "region": "Tamil Nadu", "price_per_kg": 12,  "demand": "High",      "best_selling_month": "February-March"     },
+  { "crop_name": "Soybean",   "region": "Tamil Nadu", "price_per_kg": 42,  "demand": "Medium",    "best_selling_month": "October-November"   }
+]

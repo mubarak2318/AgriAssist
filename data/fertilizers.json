@@ -1,0 +1,56 @@
+[
+  {
+    "fertilizer_name": "NPK 20:20:10",
+    "suitable_soil": ["Red Soil", "Sandy Loam"],
+    "suitable_crops": ["Groundnut", "Cotton", "Maize"],
+    "dosage_per_acre_kg": 50,
+    "cost_per_kg": 28,
+    "company": "IFFCO",
+    "description": "Balanced NPK for dry soil crops needing nitrogen and phosphorus"
+  },
+  {
+    "fertilizer_name": "Urea 46% N",
+    "suitable_soil": ["Alluvial Soil", "Clay Soil"],
+    "suitable_crops": ["Rice", "Wheat", "Sugarcane"],
+    "dosage_per_acre_kg": 60,
+    "cost_per_kg": 6,
+    "company": "KRIBHCO",
+    "description": "High nitrogen fertilizer for water-intensive crops"
+  },
+  {
+    "fertilizer_name": "DAP 18:46:0",
+    "suitable_soil": ["Black Soil", "Loamy Soil"],
+    "suitable_crops": ["Wheat", "Soybean", "Cotton", "Sunflower"],
+    "dosage_per_acre_kg": 50,
+    "cost_per_kg": 27,
+    "company": "Coromandel",
+    "description": "Di-Ammonium Phosphate for deep-rooted crops in medium to heavy soils"
+  },
+  {
+    "fertilizer_name": "Neem Coated Urea",
+    "suitable_soil": ["Sandy Loam", "Loamy Soil", "Red Soil"],
+    "suitable_crops": ["Maize", "Groundnut", "Chickpea", "Sunflower"],
+    "dosage_per_acre_kg": 45,
+    "cost_per_kg": 8,
+    "company": "NFL",
+    "description": "Slow-release urea coated with neem oil, reduces nitrogen loss"
+  },
+  {
+    "fertilizer_name": "MOP (Potash)",
+    "suitable_soil": ["Alluvial Soil", "Black Soil"],
+    "suitable_crops": ["Sugarcane", "Tomato", "Rice"],
+    "dosage_per_acre_kg": 40,
+    "cost_per_kg": 20,
+    "company": "IFFCO",
+    "description": "Muriate of Potash for fruit and vegetable quality improvement"
+  },
+  {
+    "fertilizer_name": "SSP (Single Super Phosphate)",
+    "suitable_soil": ["Red Soil", "Loamy Soil"],
+    "suitable_crops": ["Groundnut", "Chickpea", "Tomato"],
+    "dosage_per_acre_kg": 55,
+    "cost_per_kg": 10,
+    "company": "Coromandel",
+    "description": "Phosphorus and sulphur source for oilseed crops"
+  }
+]

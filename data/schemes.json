@@ -1,0 +1,49 @@
+[
+  {
+    "scheme_name": "PM-KISAN",
+    "description": "Rs.6000 per year direct income support to small and marginal farmers",
+    "benefit": "Rs.6000/year cash transfer in 3 installments",
+    "eligibility": {
+      "max_land_acres": 5,
+      "seasons": ["Kharif", "Rabi", "Zaid"]
+    }
+  },
+  {
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (Crop Insurance)",
+    "description": "Crop insurance scheme covering losses due to natural calamities",
+    "benefit": "Insurance cover up to Rs.2 lakh per season",
+    "eligibility": {
+      "max_land_acres": 999,
+      "seasons": ["Kharif", "Rabi", "Zaid"]
+    }
+  },
+  {
+    "scheme_name": "Drip Irrigation Subsidy",
+    "description": "Government subsidy for installing drip/sprinkler irrigation",
+    "benefit": "50% to 90% subsidy on drip irrigation equipment",
+    "eligibility": {
+      "max_land_acres": 10,
+      "water_availability": ["Low", "Medium"],
+      "seasons": ["Kharif", "Rabi", "Zaid"]
+    }
+  },
+  {
+    "scheme_name": "Kisan Credit Card (KCC)",
+    "description": "Credit card for farmers to meet agricultural expenses",
+    "benefit": "Credit up to Rs.3 lakh at 4% interest rate",
+    "eligibility": {
+      "max_land_acres": 999,
+      "seasons": ["Kharif", "Rabi", "Zaid"]
+    }
+  },
+  {
+    "scheme_name": "Agricultural Equipment Subsidy",
+    "description": "Subsidy on purchase of tractors and farm machinery",
+    "benefit": "25% to 50% subsidy on equipment cost",
+    "eligibility": {
+      "min_land_acres": 2,
+      "max_land_acres": 999,
+      "seasons": ["Kharif", "Rabi", "Zaid"]
+    }
+  }
+]

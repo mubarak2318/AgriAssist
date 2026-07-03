@@ -1,0 +1,92 @@
+[
+  {
+    "crop_name": "Groundnut",
+    "suitable_soil": ["Red Soil", "Sandy Loam"],
+    "water_need": "Medium",
+    "season": "Kharif",
+    "avg_yield_per_acre": 900,
+    "avg_market_price_per_kg": 78,
+    "cultivation_cost_per_acre": 9000
+  },
+  {
+    "crop_name": "Rice",
+    "suitable_soil": ["Clay Soil", "Alluvial Soil"],
+    "water_need": "High",
+    "season": "Kharif",
+    "avg_yield_per_acre": 1200,
+    "avg_market_price_per_kg": 22,
+    "cultivation_cost_per_acre": 11000
+  },
+  {
+    "crop_name": "Wheat",
+    "suitable_soil": ["Alluvial Soil", "Black Soil"],
+    "water_need": "Medium",
+    "season": "Rabi",
+    "avg_yield_per_acre": 1100,
+    "avg_market_price_per_kg": 25,
+    "cultivation_cost_per_acre": 10000
+  },
+  {
+    "crop_name": "Cotton",
+    "suitable_soil": ["Black Soil", "Red Soil"],
+    "water_need": "Medium",
+    "season": "Kharif",
+    "avg_yield_per_acre": 700,
+    "avg_market_price_per_kg": 65,
+    "cultivation_cost_per_acre": 12000
+  },
+  {
+    "crop_name": "Maize",
+    "suitable_soil": ["Loamy Soil", "Sandy Loam", "Red Soil"],
+    "water_need": "Low",
+    "season": "Kharif",
+    "avg_yield_per_acre": 950,
+    "avg_market_price_per_kg": 18,
+    "cultivation_cost_per_acre": 7000
+  },
+  {
+    "crop_name": "Chickpea",
+    "suitable_soil": ["Sandy Loam", "Loamy Soil"],
+    "water_need": "Low",
+    "season": "Rabi",
+    "avg_yield_per_acre": 600,
+    "avg_market_price_per_kg": 55,
+    "cultivation_cost_per_acre": 6000
+  },
+  {
+    "crop_name": "Sugarcane",
+    "suitable_soil": ["Alluvial Soil", "Black Soil"],
+    "water_need": "High",
+    "season": "Zaid",
+    "avg_yield_per_acre": 4000,
+    "avg_market_price_per_kg": 3,
+    "cultivation_cost_per_acre": 20000
+  },
+  {
+    "crop_name": "Sunflower",
+    "suitable_soil": ["Loamy Soil", "Black Soil"],
+    "water_need": "Low",
+    "season": "Rabi",
+    "avg_yield_per_acre": 500,
+    "avg_market_price_per_kg": 48,
+    "cultivation_cost_per_acre": 6500
+  },
+  {
+    "crop_name": "Tomato",
+    "suitable_soil": ["Red Soil", "Loamy Soil"],
+    "water_need": "Medium",
+    "season": "Zaid",
+    "avg_yield_per_acre": 5000,
+    "avg_market_price_per_kg": 12,
+    "cultivation_cost_per_acre": 18000
+  },
+  {
+    "crop_name": "Soybean",
+    "suitable_soil": ["Black Soil", "Loamy Soil"],
+    "water_need": "Medium",
+    "season": "Kharif",
+    "avg_yield_per_acre": 700,
+    "avg_market_price_per_kg": 42,
+    "cultivation_cost_per_acre": 8000
+  }
+]

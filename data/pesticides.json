@@ -1,0 +1,62 @@
+[
+  {
+    "pesticide_name": "Neem-Based Bio Pesticide",
+    "type": "Organic",
+    "target_pests": ["Aphids", "Whitefly", "Thrips"],
+    "suitable_crops": ["Groundnut", "Cotton", "Tomato", "Chickpea"],
+    "dosage_per_acre_ml": 500,
+    "cost_per_litre": 250,
+    "company": "T-Stanes",
+    "description": "Eco-friendly biopesticide derived from neem, safe for humans and environment"
+  },
+  {
+    "pesticide_name": "Chlorpyrifos 20 EC",
+    "type": "Chemical",
+    "target_pests": ["Stem Borer", "Root Grub", "Termites"],
+    "suitable_crops": ["Rice", "Maize", "Sugarcane", "Wheat"],
+    "dosage_per_acre_ml": 750,
+    "cost_per_litre": 400,
+    "company": "Bayer CropScience",
+    "description": "Broad-spectrum insecticide for soil and stem-boring pests"
+  },
+  {
+    "pesticide_name": "Mancozeb 75 WP",
+    "type": "Fungicide",
+    "target_pests": ["Late Blight", "Leaf Spot", "Downy Mildew"],
+    "suitable_crops": ["Tomato", "Groundnut", "Wheat", "Soybean"],
+    "dosage_per_acre_gm": 400,
+    "cost_per_kg": 300,
+    "company": "UPL",
+    "description": "Protective fungicide for fungal disease management"
+  },
+  {
+    "pesticide_name": "Imidacloprid 17.8 SL",
+    "type": "Chemical",
+    "target_pests": ["Aphids", "Jassids", "Whitefly"],
+    "suitable_crops": ["Cotton", "Soybean", "Sunflower"],
+    "dosage_per_acre_ml": 200,
+    "cost_per_litre": 1200,
+    "company": "Bayer CropScience",
+    "description": "Systemic insecticide for sucking pests in cash crops"
+  },
+  {
+    "pesticide_name": "Tricyclazole 75 WP",
+    "type": "Fungicide",
+    "target_pests": ["Blast Disease", "Brown Spot"],
+    "suitable_crops": ["Rice"],
+    "dosage_per_acre_gm": 200,
+    "cost_per_kg": 700,
+    "company": "Dow AgroSciences",
+    "description": "Specific fungicide for rice blast disease"
+  },
+  {
+    "pesticide_name": "Quinalphos 25 EC",
+    "type": "Chemical",
+    "target_pests": ["Bollworm", "Caterpillar", "Pod Borer"],
+    "suitable_crops": ["Cotton", "Groundnut", "Chickpea", "Maize"],
+    "dosage_per_acre_ml": 600,
+    "cost_per_litre": 350,
+    "company": "Insecticides India",
+    "description": "Contact and stomach poison for chewing pests in field crops"
+  }
+]
